@@ -1,1 +1,1 @@
-on vid 3 of collecatables
+on vid 4 of pickup colliders
